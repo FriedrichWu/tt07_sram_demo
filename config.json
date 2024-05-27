@@ -10,7 +10,7 @@
 	"GND_NETS": [
         "VGND"
     ],
-	
+
 	"FP_PDN_CHECK_NODES": false,
 	"FP_PDN_VOFFSET": 26.32,
 	"FP_PDN_MACRO_HOOKS": [
