@@ -34,7 +34,7 @@
 		"spef": {
 		},
 		"lib": {
-			"*": "dir::./macros/lib/sky130_sram_1rw_tiny_TT_1p8V_25C.lib"
+		
 		}
 	  }
 	},
